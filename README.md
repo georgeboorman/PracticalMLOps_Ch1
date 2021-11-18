@@ -1,1 +1,1 @@
-# MLOps_1
+# PracticalMLOps Chapter 1 Exercises
